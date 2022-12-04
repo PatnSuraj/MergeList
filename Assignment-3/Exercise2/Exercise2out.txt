@@ -1,0 +1,5 @@
+The sum of the squares up to 6 is: 91
+The sum of the squares up to 10 is: 385
+
+Starting word is Data_Structures, reversed from index 6 is urtS_ataD. 
+Starting word is Algorithms, reversed from index 4 is iroglA. 
